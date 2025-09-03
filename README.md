@@ -60,6 +60,22 @@ I spend more time perfecting UI than choosing variable names.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ---
+
+## Profile Trophy
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savioshaju" alt="Savio Shaju's GitHub Trophies" /></a> </p>
+
+---
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=savioshaju&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=30A3DC&text_color=FFFFFF&icon_color=30A3DC" alt="Savio Shaju's Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savioshaju&show_icons=true&locale=en&bg_color=0d1117&title_color=30A3DC&text_color=FFFFFF&icon_color=30A3DC" alt="Savio Shaju's GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savioshaju&theme=github_dark" alt="Savio Shaju's GitHub Streak Stats" /></p>
+
+---
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=savioshaju&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+
 
 _“Consistency over perfection — always building, always learning.”_
