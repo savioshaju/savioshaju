@@ -64,18 +64,14 @@ I spend more time perfecting UI than choosing variable names.
 ---
 
 ## Profile Trophy
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savioshaju" alt="Savio Shaju's GitHub Trophies" /></a> </p>
 
----
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=savioshaju&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=30A3DC&text_color=FFFFFF&icon_color=30A3DC" alt="Savio Shaju's Top Languages" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=savioshaju&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=savioshaju&show_icons=true&locale=en&bg_color=0d1117&title_color=30A3DC&text_color=FFFFFF&icon_color=30A3DC" alt="Savio Shaju's GitHub Stats" /></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=savioshaju&theme=tokyonight&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savioshaju&theme=github_dark" alt="Savio Shaju's GitHub Streak Stats" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savioshaju&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9)
 
----
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=savioshaju&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+![GitHub Trophies](https://github-profile-trophy-tawny.vercel.app/?username=savioshaju&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)
 
 
 _“Consistency over perfection — always building, always learning.”_
